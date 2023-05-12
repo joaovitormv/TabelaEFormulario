@@ -59,6 +59,24 @@ main.inicio div h3 {
     padding: 0.6rem;
 }
 
+.main{
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table thead tr th, table tr td{
+    border: 0.2rem solid black;
+    padding: 0.5rem;
+
+}
+
+table{
+    border-collapse: collapse;
+    margin-bottom: 1rem;
+}
+
 footer {
     background-color: var(--primary);
     height: 2rem;
